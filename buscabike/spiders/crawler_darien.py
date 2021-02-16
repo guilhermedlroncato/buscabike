@@ -2,6 +2,7 @@ import scrapy
 import requests
 import re
 
+# primeiro crawler do projeto buscabike
 # scrapy shell 'https://www.darien.com.br/bicicleta-aro-29-tsw-rava-pressure-27-pretovermvioleta' -s USER_AGENT='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
 # scrapy runspider crawler_darien.py -o quotes.csv
 
