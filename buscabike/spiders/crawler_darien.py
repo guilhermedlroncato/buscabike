@@ -53,10 +53,3 @@ class CrawlerDarien(scrapy.Spider):
             'valor_parcela': valor_parcela,
             'url': response.url
         }
-
-    
-
-        
-        
-
-        
